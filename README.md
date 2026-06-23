@@ -1,20 +1,21 @@
-# 🎎 Segmentacion-de-Clientes-en-una-tienda-de-abarrotes
- Procesamiento, análisis y segmentación del nuevo ecosistema de clientes para homologar el tipo de clientes, aumentar retención a una inversión mínima y generar mayores ingresos a la organización.
+# 🛒 Customer-Segmentation-for-a-Grocery-Store
 
-# 🎯 Introducción: 
- Análisis de comportamiento de una tienda de abarrotes durante el periodo Agosto 2023 al 2025 para generar un ecosistema de clientes y focalizar de manera eficiente los puntos de lealtad.
+Processing, analysis, and segmentation of a new customer ecosystem to standardize customer profiles, increase retention with minimal investment, and generate higher revenue for the organization.
 
-# 📌 Estrategia: 
- Enfoque en fidelizar al grupo Premium para que sirvan de modelo de comportamiento. Mediante agrupaciones con agregaciones en lenguaje Python y visualizaciones en Tableau
+## 🎯 Introduction:
+Behavioral analysis of a grocery store from August 2023 to 2025 to develop a customer ecosystem and efficiently target loyalty program touchpoints.
 
-# 📈 Meta: 
- Intentar "homologar" los segmentos. Al tener clientes más constantes y predecibles (Premium), la rentabilidad sube.
+## 📌 Strategy:
+Focus on building loyalty within the Premium group so they can serve as a behavioral baseline. This is achieved through data clustering and aggregations using Python, coupled with interactive visualizations in Tableau.
 
-# ⚖️ Impacto Financiero: 
-Al estandarizar el tipo de cliente, los gastos de retención se reducen, ya que las campañas dejan de ser masivas y se vuelven quirúrgicas y eficiente.
+## 📈 Goal:
+To "standardize" and align customer segments. By cultivating more consistent and predictable customers (Premium), overall business profitability increases.
 
-# ✨ Conclusión:
-Estandarizar al segmento de "Premium" puede permitir una mejor inversión en el tema de publicidad y generar mayor rentabilidad del negocio.
+## ⚖️ Financial Impact:
+By standardizing customer profiles, retention costs are significantly reduced. Marketing campaigns shift away from broad, mass-targeting approaches, becoming surgical and highly efficient.
+
+## ✨ Conclusion:
+Standardizing the "Premium" segment enables smarter, optimized advertising investments and drives greater business profitability.
 
 # Link a Tableau Public: https://public.tableau.com/app/profile/ana.lucia.contreras/viz/grocery_store_resume/Segmentacindeclientesparaaumentoderentabilidad?publish=yes
 
